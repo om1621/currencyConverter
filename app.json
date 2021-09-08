@@ -23,10 +23,14 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.om1621.currencyConverter"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "androidStatusBar": {
+      "translucent": false
     }
   }
 }
